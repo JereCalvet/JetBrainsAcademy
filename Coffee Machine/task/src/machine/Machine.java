@@ -2,6 +2,8 @@ package machine;
 
 import java.util.Scanner;
 
+//Este codigo se puede mejorar con un metodo makeCoffee() para abstraer makeLatte, Capucchino o expreso.
+//Tambien se puede mejorar la legibilidad usando constantes para los ingredientes de cada cafe
 
 class Main {
     public static void main(String[] args) {
