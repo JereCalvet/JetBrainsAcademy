@@ -1,0 +1,18 @@
+textarea {
+    width: 600px;
+    height: 300px;
+}
+
+#views_restriction, #time_restriction {
+    margin: 10px 0px 10px 5px;
+}
+
+#code_snippet {
+    border: grey solid 2px;
+    background-color: lightgray;
+}
+
+
+#views_restriction, #time_restriction {
+    color: black;
+}
